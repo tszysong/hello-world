@@ -1,3 +1,3 @@
 # hello-world
 just test
-learning how to use it
+test by my own
